@@ -1,0 +1,32 @@
+@font-face {
+  font-family: yekan;
+  src: url(../assets/font/KalamehFaNum-Medium.ttf) format("truetype");
+}
+
+body {
+  font-family: yekan !important;
+  color: #ea906c30;
+  text-decoration: none;
+}
+
+header nav div a {
+  background-color: #B31312;
+  border-radius: 0px 20px 0px 20px;
+}
+
+body header nav div a img {
+  width: 130px;
+  padding: 0px 10px 0px 10px;
+  margin: 0px 6px 0px 6px;
+}
+
+header nav {
+  background-color: #EA906C;
+}
+
+footer {
+  background-color: #2B2A4C;
+  color: #EEE2DE;
+}
+
+/*# sourceMappingURL=4main.css.map */
